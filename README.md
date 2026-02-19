@@ -15,4 +15,4 @@
 
 ## My coding time
 
-![Filippo Bellei's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filippobellei&theme=merko&layout=compact)
+![Filippo Bellei's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=filippobellei&theme=merko&layout=compact)
